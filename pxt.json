@@ -1,6 +1,5 @@
 {
-    "name": "new pizza assets",
-    "version": "0.0.1",
+    "name": "pizza-assets-2",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -23,7 +22,7 @@
         "branch": "v2.0.32",
         "tag": "v2.0.32",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/174e532d826a8224546ac396d7fec4b56e7499e6",
-        "target": "2.0.26",
+        "target": "2.0.38",
         "pxt": "11.3.42",
         "targetId": "arcade"
     },
